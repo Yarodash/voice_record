@@ -1,0 +1,17 @@
+{
+  "terminal": {
+    "cols": 120,
+    "rows": 30
+  },
+  "audio": {
+    "virtual_speaker": "Speakers (Steam Streaming Microphone)",
+    "virtual_mic": "Microphone (Steam Streaming Microphone)",
+    "cable_gain_db": -30,
+    "mic_gain_db": 0
+  },
+  "claude": {
+    "model": "haiku",
+    "effort": "",
+    "extra_args": []
+  }
+}

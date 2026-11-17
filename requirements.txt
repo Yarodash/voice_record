@@ -1,0 +1,5 @@
+pywinpty
+sounddevice
+numpy
+pycaw
+pyte
